@@ -1,5 +1,5 @@
-## Hello there fellow traveller!
-I'm Francesco, a digital humanist actually based in Palermo, Sicily.
+## Hello There!
+I'm Francesco, a digital humanist currently based in Palermo, Sicily.
 
 - 📚  Ask me about Digital Humanities, Digital Editions, and Narratology 
 - 🌱  I’m currently learning and reinforcing my web stack and graphical skills!\
