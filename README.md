@@ -1,8 +1,9 @@
 ## Hello There!
 I'm Francesco, a digital humanist currently based in Palermo, Sicily.
 
-- 📚  Ask me about Digital Humanities, Digital Editions, and Narratology 
-- 🌱  I’m currently learning and reinforcing data management and information architecture skills
+- 📚  Ask me about Digital Humanities, Digital Editions, and Narratology
+- 🤖  Also ask me about new AI trends and how they can be related to culture and knowledge!
+- 🌱  I’m currently learning AI orchestration frameworks and how to intertwine them with my passions.
 - ⚡  <a href="https://gist.github.com/falaimo99/2f1eac32177b862fef869adeb7735178#file-universityprojects-md">Here</a> you can find all my University projects!
 - 💡  <a href="https://github.com/falaimo99/sam">Here</a> you can visit my final Master's degree project: "SAM" a framework to analyze narratological information
 
