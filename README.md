@@ -9,7 +9,7 @@ I'm Francesco, a digital humanist currently based in Palermo, Sicily.
 
 *****
 
-- 📫  How to reach me: <a href="mailto:falaimo99@gmail.com">Just Send me an E-Mail</a> at f.alaimo99@gmail.com
+- 📫  How to reach me: Just Send me an E-Mail at f.alaimo99@gmail.com
 
 <!--
 **falaimo99/falaimo99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
